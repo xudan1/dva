@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import dva, { connect } from './dva';
+import dva, { connect } from 'dva';
 import { Router, Route } from 'dva/router';
 import { createLogger } from 'redux-logger';
 import { createBrowserHistory } from 'history';
